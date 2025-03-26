@@ -33,4 +33,4 @@ pip install opencv-python numpy SimpleITK matplotlib PyQt5
 ## Usage
 To run the segmentation pipeline:
 ```bash
-python main.py --input path/to/input.nii.gz --output path/to/output.nii.gz
+python interactiveUI_v3.py
